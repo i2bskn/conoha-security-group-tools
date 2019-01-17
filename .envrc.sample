@@ -1,0 +1,4 @@
+export API_USERNAME=
+export API_PASSWORD=
+export API_TENANT_ID=
+export PREFIX=
