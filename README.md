@@ -4,6 +4,7 @@
 
 - make
 - jq
+- direnv
 
 ### 事前準備
 
