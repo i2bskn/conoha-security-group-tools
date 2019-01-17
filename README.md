@@ -5,6 +5,13 @@
 - make
 - jq
 
+### 事前準備
+
+```
+cp .envrc{.sample,}
+direnv edit .
+```
+
 ### セキュリティグループ作成
 
 ```
